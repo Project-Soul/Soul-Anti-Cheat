@@ -11,6 +11,7 @@
 
 ## Features
 
-* Custom Checks
-* Flexible Settings
-* Much more!
+- Custom Checks
+- Flexible Settings
+- Webhooks
+- Much more!
